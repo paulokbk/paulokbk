@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Filho</h1>
-<h3 align="center">A student a developer from Brazil</h3>
+<h3 align="center">I am a developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **paulokbkfilho@hotmail.com**
 

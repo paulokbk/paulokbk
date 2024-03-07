@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paulo Filho</h1>
-<h3 align="center">I am a Front-End Developer from Brazil</h3>
 
 
 - 📫 How to reach me **paulokbkfilho@hotmail.com**
